@@ -39,7 +39,7 @@ figure:before {
   transition: .5s;
 }
 figure:before {
-  background-image: url(./Images/seongji yuk1.jpg)
+  background-image: url(./Images/seongji yuk1.png)
 }
 figure + figure:before {
   background-image: url(./Images/seongji yuk2.png)
